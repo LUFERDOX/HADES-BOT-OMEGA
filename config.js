@@ -8,15 +8,15 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5212412377467', 'CREADOR', true],
-  ['5212411233838', 'CREADOR', true],
-  ['5212411719888', 'CREADOR', true],
-  ['5212414147874', 'CREADOR', true]
+  ['+51939182302', 'CREADOR', true],
+  ['+51939182302', 'CREADOR', true],
+  ['+51939182302', 'CREADOR', true],
+  ['+51939182302', 'CREADOR', true]
   
 ];
 
-global.suittag = ['5212414147874'];
-global.prems = ['5212414147874'];
+global.suittag = ['+51939182302'];
+global.prems = ['+51939182302'];
 
 global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
 global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
@@ -28,11 +28,11 @@ global.yt = 'https://youtu.be/aPu9wQi-z8U';
 global.youtube = yt
 global.ig = 'https://www.instagram';
 global.hadesig = ig
-global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git';
+global.md = 'https://github.com/LUFERDOX/HADES-BOT-OMEGA/edit/main/config.js#L35';
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf';
+global.nn = 'https://chat.whatsapp.com/B9QofrxLKfwCVVJKAGsTup';
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf';
+global.nnn = 'https://chat.whatsapp.com/B9QofrxLKfwCVVJKAGsTup';
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -51,7 +51,7 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*';
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.wm = '©ᴏғᴄ-luferfox﹏✍\n乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
 global.igfg = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱';
 
